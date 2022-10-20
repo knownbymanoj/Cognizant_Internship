@@ -16,11 +16,11 @@ Problem Statement -
   
   TASKS:
   
-  1. Exploratory Data Analysis
+  1. Exploratory Data Analysis:
       Explored customer data to identify next steps
-  2. Data Modelling
+  2. Data Modelling:
       Understanding relational data and framing a problem statement
-  3. Model Building and Interpretation
+  3. Model Building and Interpretation:
       Developing machine learning algorithms for production
-  4. Quality Assurance
+  4. Quality Assurance:
       Evaluating the production machine learning model to ensure quality results
