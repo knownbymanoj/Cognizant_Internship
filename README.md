@@ -25,3 +25,6 @@ Problem Statement -
   4. Quality Assurance:
       Evaluating the production machine learning model to ensure quality results
 
+Course_Completion_Certificate_link:
+
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_szgpPDDTMS4xiDnJT_1663845809258_completion_certificate.pdf
