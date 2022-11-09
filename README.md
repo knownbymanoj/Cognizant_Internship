@@ -25,5 +25,3 @@ Problem Statement -
   4. Quality Assurance:
       Evaluating the production machine learning model to ensure quality results
 
-
-[5N2ygyhzMWjKQmgCK_Cognizant_szgpPDDTMS4xiDnJT_1663845809258_completion_certificate.pdf](https://github.com/knownbymanoj/Cognizant_Internship/files/9975420/5N2ygyhzMWjKQmgCK_Cognizant_szgpPDDTMS4xiDnJT_1663845809258_completion_certificate.pdf)
